@@ -2527,4 +2527,4 @@
 多拉,藏文规范音节大全V2.0[Data set].青海师范大学省部共建藏语智能信息处理及应用国家重点实验室.https://github.com/T-Dolha/Practical-Tibetan-Standard-Syllables-V2.0)https://github.com/T-Dolha/Practical-Tibetan-Standard-Syllables-V2.0
 ```
 #### 5、许可证
-
+请点击![LICENSE](LICENSE)
