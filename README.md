@@ -2524,7 +2524,7 @@
 完整请点击[实用藏文规范音节大全](实用藏文规范音节大全V2.0.txt)
 #### 4、引用格式
 ```
-多拉,藏文规范音节大全V2.0[Data set].青海师范大学省部共建藏语智能信息处理及应用国家重点实验室.URL
+多拉,藏文规范音节大全V2.0[Data set].青海师范大学省部共建藏语智能信息处理及应用国家重点实验室.https://github.com/T-Dolha/Practical-Tibetan-Standard-Syllables-V2.0)https://github.com/T-Dolha/Practical-Tibetan-Standard-Syllables-V2.0
 ```
 #### 5、许可证
 
